@@ -1,16 +1,6 @@
-# how_fast_i_am
+Đây là 1 sản phẩm thực hiện chỉ với mục đích giúp tôi làm quen trở lại với ngôn ngữ Dart sau khoảng một khoảng thời gian nên không có gì đặc biệt.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Bạn có 10 giây cho mỗi lần chơi.
+- Bấm càng nhiều để đạt được điểm số tốt nhất.
+- Có chức năng lưu điểm số theo tên người chơi.
+- Có BXH người chơi.
